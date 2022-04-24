@@ -65,3 +65,31 @@ section {
     background: #fbd0d8;
     border-bottom-color: #f9b9c4;
 }
+
+table.tb {
+    text-align: left;
+    margin: 20px 10px;
+  }
+
+  table.tb thead th {
+    width: 100px;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    background: #e7708d;
+    margin: 10px 10px;
+  }
+
+  table.tb tbody th {
+    width: 200px;
+    padding: 10px;
+  }
+
+  table.tb td {
+    width: 400px;
+    padding: 10px;
+  }
+
+  table.tb .diff {
+    background: #fbd0d8;
+  }

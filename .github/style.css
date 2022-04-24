@@ -28,6 +28,16 @@ h2 {
     padding: 5px;
 }
 
+.photobox {
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
 .mainbox {
     width: 610px;
     padding: 30px;
@@ -46,3 +56,40 @@ h2 {
 section {
     margin-bottom: 24px;
 }
+
+.tmibox {
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(110, 110, 110);
+    padding: 9px 14px 6px;
+    background: #fbd0d8;
+    border-bottom-color: #f9b9c4;
+}
+
+table.tb {
+    text-align: left;
+    margin: 20px 10px;
+  }
+
+  table.tb thead th {
+    width: 100px;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    background: #e7708d;
+    margin: 10px 10px;
+  }
+
+  table.tb tbody th {
+    width: 200px;
+    padding: 10px;
+  }
+
+  table.tb td {
+    width: 400px;
+    padding: 10px;
+  }
+
+  table.tb .diff {
+    background: #fbd0d8;
+  }

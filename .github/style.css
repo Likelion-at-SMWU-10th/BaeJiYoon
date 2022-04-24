@@ -56,3 +56,12 @@ h2 {
 section {
     margin-bottom: 24px;
 }
+
+.tmibox {
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(110, 110, 110);
+    padding: 9px 14px 6px;
+    background: #fbd0d8;
+    border-bottom-color: #f9b9c4;
+}

@@ -28,6 +28,16 @@ h2 {
     padding: 5px;
 }
 
+.photobox {
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
 .mainbox {
     width: 610px;
     padding: 30px;
